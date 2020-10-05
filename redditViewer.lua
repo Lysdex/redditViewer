@@ -20,7 +20,7 @@
 local libfif = require('libfif')
 
 local component = require('component')
-local server = "127.0.0.1:8090"
+local server = "2.24.242.189:8090"
 local fs = require('filesystem')
 
 
